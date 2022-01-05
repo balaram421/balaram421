@@ -1,0 +1,4 @@
+- 👋 Hi, I’m  Balaram Pradhan an Mca Graduate student.
+- 👀 I’m interested in Software World.
+- 🌱 I’m currently learning front end technologies like HTML,Css3,Bootstrap,Javasript and Angular 2+,typescript and in the back end j2SE,J2EE,PHP and in database mysql.
+- 📫 How to reach me -- gmnail-pradhanbalaram@421.gmail.com
